@@ -1,0 +1,20 @@
+{
+  "name": "jenkins-pipeline-project",
+  "version": "1.0.0",
+  "description": "CI/CD pipeline project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyganouko/jenkins-pipeline-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyganouko/jenkins-pipeline-project/issues"
+  },
+  "homepage": "https://github.com/cyganouko/jenkins-pipeline-project#readme"
+}
