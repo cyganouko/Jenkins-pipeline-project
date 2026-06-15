@@ -7,6 +7,7 @@ const server = http.createServer((req, res) => {
             <body>
                 <h1>My Jenkins Pipeline App</h1>
                 <h2>MILESTONE 2</h2>
+                <h2>MILESTONE 3</h2>
             </body>
         </html>
     `);
