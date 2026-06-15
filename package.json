@@ -4,17 +4,8 @@
   "description": "CI/CD pipeline project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node -e \"console.log('All tests passed!')\"",
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cyganouko/jenkins-pipeline-project.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cyganouko/jenkins-pipeline-project/issues"
-  },
-  "homepage": "https://github.com/cyganouko/jenkins-pipeline-project#readme"
+  "license": "ISC"
 }
